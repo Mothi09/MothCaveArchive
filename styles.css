@@ -1,0 +1,7 @@
+.box {
+  background-color: #ffb6c1; /* same pink tone */
+  border: 1px solid #b54a6b;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 15px;
+}
